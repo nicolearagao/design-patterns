@@ -1,6 +1,9 @@
 Concepts:
 
 Questions
+OOP:
+- built-in polymorphism in Python
+
 Design Patterns applications:
 - What's the time to use a design pattern ? Can it be chosen during design phase? 
 - What is the relevant context to be taken in consideration when choosing a design pattern ? (classes, non-functional requirements)
