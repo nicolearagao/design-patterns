@@ -1,0 +1,13 @@
+Concepts:
+
+Questions
+Design Patterns applications:
+- What's the time to use a design pattern ? Can it be chosen during design phase? 
+- What is the relevant context to be taken in consideration when choosing a design pattern ? (classes, non-functional requirements)
+- How big code must be to take advantage of a design pattern ?
+- Are there patterns that are not recommended to be used in the Python language ?
+
+Singletons:
+- __init__(welcoming host of object), __new__ manipulation examples, __call__
+- All Python modules are Singletons by default ? tuples are singleton ?
+- global name through The Global Object Pattern, how does that work in Python? Separate namespace concepts
